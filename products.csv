@@ -1,0 +1,501 @@
+product_name,website,price,rating,revie ws,discount,delivery_days,category
+iPhone 15,Amazon,94772,4.4,18550,19,6,Electronics
+iPhone 15,Flipkart,81232,4.6,2132,19,7,Electronics
+iPhone 15,Myntra,75285,4.1,9073,9,2,Electronics
+iPhone 15,Croma,93218,4.4,23824,25,2,Electronics
+iPhone 15,Reliance Digital,87972,4.2,21364,34,2,Electronics
+iPhone 15 Pro,Amazon,14711,4.0,18694,39,3,Electronics
+iPhone 15 Pro,Flipkart,16515,4.2,19421,30,3,Electronics
+iPhone 15 Pro,Myntra,14540,4.8,16996,36,1,Electronics
+iPhone 15 Pro,Croma,16548,4.7,5308,45,2,Electronics
+iPhone 15 Pro,Reliance Digital,16683,4.2,2381,29,4,Electronics
+Samsung Galaxy S24,Amazon,4375,4.3,8538,40,7,Electronics
+Samsung Galaxy S24,Flipkart,4731,4.5,4053,39,7,Electronics
+Samsung Galaxy S24,Myntra,4037,4.4,3955,23,4,Electronics
+Samsung Galaxy S24,Croma,3926,3.8,23961,21,5,Electronics
+Samsung Galaxy S24,Reliance Digital,4545,4.3,3786,45,3,Electronics
+Samsung Galaxy A55,Amazon,106247,4.3,6817,14,3,Electronics
+Samsung Galaxy A55,Flipkart,104381,4.3,17678,5,5,Electronics
+Samsung Galaxy A55,Myntra,94050,3.8,12194,24,2,Electronics
+Samsung Galaxy A55,Croma,87776,4.7,2880,10,6,Electronics
+Samsung Galaxy A55,Reliance Digital,97864,3.9,17755,13,2,Electronics
+OnePlus 12,Amazon,38467,4.7,5710,21,5,Electronics
+OnePlus 12,Flipkart,40358,4.2,7240,39,7,Electronics
+OnePlus 12,Myntra,39091,4.0,10514,30,6,Electronics
+OnePlus 12,Croma,38379,4.2,17259,33,1,Electronics
+OnePlus 12,Reliance Digital,34805,3.9,989,42,5,Electronics
+OnePlus Nord CE 4,Amazon,30953,4.0,2626,45,1,Electronics
+OnePlus Nord CE 4,Flipkart,30943,4.7,11127,9,5,Electronics
+OnePlus Nord CE 4,Myntra,31015,4.5,7320,39,2,Electronics
+OnePlus Nord CE 4,Croma,34871,4.7,19181,35,2,Electronics
+OnePlus Nord CE 4,Reliance Digital,35357,4.6,6539,11,1,Electronics
+Google Pixel 8,Amazon,31409,4.2,13770,34,7,Electronics
+Google Pixel 8,Flipkart,31918,4.5,21474,11,1,Electronics
+Google Pixel 8,Myntra,29547,4.1,3880,20,2,Electronics
+Google Pixel 8,Croma,28005,4.2,14124,16,3,Electronics
+Google Pixel 8,Reliance Digital,29983,4.7,2770,33,7,Electronics
+Vivo V30,Amazon,20960,4.4,1957,39,7,Electronics
+Vivo V30,Flipkart,17041,3.9,24992,20,2,Electronics
+Vivo V30,Myntra,18854,4.3,13441,8,2,Electronics
+Vivo V30,Croma,18727,4.8,8990,34,3,Electronics
+Vivo V30,Reliance Digital,18931,4.8,18511,36,2,Electronics
+Realme GT 6,Amazon,90270,4.0,2216,42,6,Electronics
+Realme GT 6,Flipkart,98516,4.5,2173,8,5,Electronics
+Realme GT 6,Myntra,96985,4.7,17703,15,1,Electronics
+Realme GT 6,Croma,108314,3.9,6389,9,5,Electronics
+Realme GT 6,Reliance Digital,87416,4.7,13530,12,5,Electronics
+Nothing Phone 2,Amazon,13553,4.4,20595,10,4,Electronics
+Nothing Phone 2,Flipkart,14978,4.4,10666,21,2,Electronics
+Nothing Phone 2,Myntra,15020,4.1,9003,30,2,Electronics
+Nothing Phone 2,Croma,15027,4.1,10660,9,1,Electronics
+Nothing Phone 2,Reliance Digital,14288,4.8,3576,9,5,Electronics
+Redmi Note 13 Pro,Amazon,83520,4.1,11736,9,2,Electronics
+Redmi Note 13 Pro,Flipkart,86886,4.0,18100,24,5,Electronics
+Redmi Note 13 Pro,Myntra,100110,4.6,17632,5,6,Electronics
+Redmi Note 13 Pro,Croma,96521,4.1,22037,11,2,Electronics
+Redmi Note 13 Pro,Reliance Digital,84624,4.7,24627,40,2,Electronics
+Motorola Edge 50,Amazon,92720,4.4,23814,26,2,Electronics
+Motorola Edge 50,Flipkart,102492,4.7,16861,36,3,Electronics
+Motorola Edge 50,Myntra,107620,4.6,3324,45,4,Electronics
+Motorola Edge 50,Croma,105831,3.8,11229,13,6,Electronics
+Motorola Edge 50,Reliance Digital,109372,4.0,14778,40,6,Electronics
+HP Pavilion 15,Amazon,71223,3.8,2765,14,5,Electronics
+HP Pavilion 15,Flipkart,64410,4.2,18405,14,4,Electronics
+HP Pavilion 15,Myntra,66000,4.1,1607,27,2,Electronics
+HP Pavilion 15,Croma,75648,4.5,11889,40,7,Electronics
+HP Pavilion 15,Reliance Digital,70852,4.4,5364,20,7,Electronics
+Dell Inspiron 15,Amazon,11390,4.6,6101,31,1,Electronics
+Dell Inspiron 15,Flipkart,11440,4.7,13791,20,3,Electronics
+Dell Inspiron 15,Myntra,11380,4.5,12835,7,7,Electronics
+Dell Inspiron 15,Croma,12306,4.0,15383,27,3,Electronics
+Dell Inspiron 15,Reliance Digital,13347,4.7,7604,6,6,Electronics
+Lenovo IdeaPad Slim 5,Amazon,72622,4.1,2574,22,3,Electronics
+Lenovo IdeaPad Slim 5,Flipkart,81057,4.2,17870,26,1,Electronics
+Lenovo IdeaPad Slim 5,Myntra,71158,4.8,6151,42,3,Electronics
+Lenovo IdeaPad Slim 5,Croma,69708,4.4,11627,25,4,Electronics
+Lenovo IdeaPad Slim 5,Reliance Digital,80394,4.3,12922,41,2,Electronics
+ASUS Vivobook 15,Amazon,52986,4.5,355,38,7,Electronics
+ASUS Vivobook 15,Flipkart,56820,4.5,24612,17,3,Electronics
+ASUS Vivobook 15,Myntra,55372,4.7,11119,44,3,Electronics
+ASUS Vivobook 15,Croma,58508,3.9,10140,37,3,Electronics
+ASUS Vivobook 15,Reliance Digital,58556,4.1,23146,23,5,Electronics
+Acer Aspire 5,Amazon,4702,4.2,12723,16,5,Electronics
+Acer Aspire 5,Flipkart,5249,4.2,313,24,3,Electronics
+Acer Aspire 5,Myntra,4804,4.6,20179,25,4,Electronics
+Acer Aspire 5,Croma,5091,4.5,17050,35,7,Electronics
+Acer Aspire 5,Reliance Digital,5661,4.6,5860,10,3,Electronics
+MacBook Air M2,Amazon,4922,4.4,11283,10,7,Electronics
+MacBook Air M2,Flipkart,5435,4.0,10471,19,7,Electronics
+MacBook Air M2,Myntra,4549,3.8,8323,35,5,Electronics
+MacBook Air M2,Croma,5315,3.9,13880,45,5,Electronics
+MacBook Air M2,Reliance Digital,4544,4.5,16499,30,2,Electronics
+MacBook Air M3,Amazon,12155,4.5,24907,11,7,Electronics
+MacBook Air M3,Flipkart,13040,4.0,23103,38,4,Electronics
+MacBook Air M3,Myntra,11845,4.0,4276,34,2,Electronics
+MacBook Air M3,Croma,14239,4.5,18614,43,3,Electronics
+MacBook Air M3,Reliance Digital,14713,4.7,20375,37,4,Electronics
+HP Victus Gaming,Amazon,32008,4.3,5515,35,4,Electronics
+HP Victus Gaming,Flipkart,27942,4.0,21194,22,7,Electronics
+HP Victus Gaming,Myntra,31632,4.3,8139,22,4,Electronics
+HP Victus Gaming,Croma,26648,4.1,9203,26,3,Electronics
+HP Victus Gaming,Reliance Digital,32453,3.9,5242,19,4,Electronics
+Lenovo LOQ Gaming,Amazon,32959,4.5,2404,31,4,Electronics
+Lenovo LOQ Gaming,Flipkart,30215,4.3,2340,18,7,Electronics
+Lenovo LOQ Gaming,Myntra,30890,4.7,19439,6,7,Electronics
+Lenovo LOQ Gaming,Croma,34371,4.4,15929,5,3,Electronics
+Lenovo LOQ Gaming,Reliance Digital,29971,4.2,14030,39,6,Electronics
+ASUS TUF Gaming,Amazon,71022,4.6,7526,36,2,Electronics
+ASUS TUF Gaming,Flipkart,63571,4.3,13042,26,6,Electronics
+ASUS TUF Gaming,Myntra,70126,4.2,5708,34,2,Electronics
+ASUS TUF Gaming,Croma,74993,4.3,13211,42,5,Electronics
+ASUS TUF Gaming,Reliance Digital,69866,3.9,14344,13,7,Electronics
+Dell G15,Amazon,79171,3.9,12722,25,2,Electronics
+Dell G15,Flipkart,79037,4.1,12723,22,7,Electronics
+Dell G15,Myntra,88558,4.2,2983,35,1,Electronics
+Dell G15,Croma,84681,3.9,11767,19,6,Electronics
+Dell G15,Reliance Digital,71633,4.8,1619,6,2,Electronics
+Acer Nitro V,Amazon,4153,3.8,5293,20,2,Electronics
+Acer Nitro V,Flipkart,4448,3.9,7442,34,6,Electronics
+Acer Nitro V,Myntra,4215,4.2,20153,43,6,Electronics
+Acer Nitro V,Croma,4711,4.6,5666,24,1,Electronics
+Acer Nitro V,Reliance Digital,4561,4.7,19167,29,4,Electronics
+iPad 10th Gen,Amazon,82462,4.0,19701,45,2,Electronics
+iPad 10th Gen,Flipkart,67438,4.6,22721,43,7,Electronics
+iPad 10th Gen,Myntra,67780,4.8,1645,27,5,Electronics
+iPad 10th Gen,Croma,73280,4.2,16879,26,1,Electronics
+iPad 10th Gen,Reliance Digital,80817,4.6,3758,32,3,Electronics
+iPad Air,Amazon,27941,4.6,23477,14,4,Electronics
+iPad Air,Flipkart,24957,4.3,21614,22,5,Electronics
+iPad Air,Myntra,29062,4.3,16143,34,4,Electronics
+iPad Air,Croma,29176,4.4,10861,20,7,Electronics
+iPad Air,Reliance Digital,29883,4.1,15071,20,7,Electronics
+Samsung Galaxy Tab S9,Amazon,94045,4.4,12718,26,1,Electronics
+Samsung Galaxy Tab S9,Flipkart,94719,4.1,16276,18,3,Electronics
+Samsung Galaxy Tab S9,Myntra,101628,4.1,19834,22,5,Electronics
+Samsung Galaxy Tab S9,Croma,83698,4.7,3105,20,6,Electronics
+Samsung Galaxy Tab S9,Reliance Digital,92718,4.4,8174,35,6,Electronics
+OnePlus Pad,Amazon,90561,4.2,865,10,3,Electronics
+OnePlus Pad,Flipkart,80421,4.5,10333,42,3,Electronics
+OnePlus Pad,Myntra,85626,4.3,14242,40,3,Electronics
+OnePlus Pad,Croma,83114,4.3,10347,21,2,Electronics
+OnePlus Pad,Reliance Digital,78333,4.0,4217,39,7,Electronics
+Redmi Pad Pro,Amazon,97163,4.0,24502,35,3,Electronics
+Redmi Pad Pro,Flipkart,97931,4.8,17491,43,3,Electronics
+Redmi Pad Pro,Myntra,103639,4.6,10007,19,3,Electronics
+Redmi Pad Pro,Croma,85774,3.8,17802,13,3,Electronics
+Redmi Pad Pro,Reliance Digital,82787,3.9,9872,13,6,Electronics
+Lenovo Tab P12,Amazon,78829,4.3,701,41,3,Electronics
+Lenovo Tab P12,Flipkart,71893,4.2,6341,8,3,Electronics
+Lenovo Tab P12,Myntra,80091,4.3,2441,30,4,Electronics
+Lenovo Tab P12,Croma,65021,4.4,2056,14,2,Electronics
+Lenovo Tab P12,Reliance Digital,77833,4.7,3091,20,1,Electronics
+Sony WH-1000XM5,Amazon,56766,4.2,19833,44,2,Accessories
+Sony WH-1000XM5,Flipkart,59690,4.2,14807,24,7,Accessories
+Sony WH-1000XM5,Myntra,57175,4.2,18932,44,1,Accessories
+Sony WH-1000XM5,Croma,57459,4.5,7108,45,2,Accessories
+Sony WH-1000XM5,Reliance Digital,52823,3.9,8159,16,5,Accessories
+Apple AirPods Pro 2,Amazon,26843,3.8,15062,43,4,Accessories
+Apple AirPods Pro 2,Flipkart,28394,4.0,23465,23,6,Accessories
+Apple AirPods Pro 2,Myntra,32471,3.9,7948,21,7,Accessories
+Apple AirPods Pro 2,Croma,31981,4.4,6782,32,1,Accessories
+Apple AirPods Pro 2,Reliance Digital,30211,4.4,9004,14,1,Accessories
+Samsung Galaxy Buds2 Pro,Amazon,53548,4.6,19798,41,3,Electronics
+Samsung Galaxy Buds2 Pro,Flipkart,59002,4.3,10264,30,3,Electronics
+Samsung Galaxy Buds2 Pro,Myntra,59883,4.3,2935,43,1,Electronics
+Samsung Galaxy Buds2 Pro,Croma,65473,4.5,20082,21,1,Electronics
+Samsung Galaxy Buds2 Pro,Reliance Digital,54004,4.8,19148,42,1,Electronics
+OnePlus Buds Pro 2,Amazon,87615,4.5,9131,41,1,Electronics
+OnePlus Buds Pro 2,Flipkart,83175,4.0,17305,33,3,Electronics
+OnePlus Buds Pro 2,Myntra,72254,4.4,21100,36,1,Electronics
+OnePlus Buds Pro 2,Croma,77671,4.2,10820,11,7,Electronics
+OnePlus Buds Pro 2,Reliance Digital,71866,4.2,16535,23,6,Electronics
+JBL Tune 770NC,Amazon,41464,4.6,18325,7,4,Accessories
+JBL Tune 770NC,Flipkart,33758,4.1,4098,30,7,Accessories
+JBL Tune 770NC,Myntra,37593,4.8,21850,39,4,Accessories
+JBL Tune 770NC,Croma,36682,4.0,12154,44,7,Accessories
+JBL Tune 770NC,Reliance Digital,37448,4.2,1991,18,3,Accessories
+Boat Rockerz 550,Amazon,1871,4.7,14656,36,1,Accessories
+Boat Rockerz 550,Flipkart,1640,4.4,8141,15,3,Accessories
+Boat Rockerz 550,Myntra,1872,4.4,3354,19,7,Accessories
+Boat Rockerz 550,Croma,2033,4.3,4149,14,4,Accessories
+Boat Rockerz 550,Reliance Digital,2042,4.1,23414,22,4,Accessories
+Marshall Major IV,Amazon,23686,4.8,8286,34,5,Accessories
+Marshall Major IV,Flipkart,20055,4.0,19940,37,6,Accessories
+Marshall Major IV,Myntra,23921,4.7,9352,31,3,Accessories
+Marshall Major IV,Croma,24210,4.3,384,23,6,Accessories
+Marshall Major IV,Reliance Digital,20865,4.4,21924,36,7,Accessories
+Bose QuietComfort,Amazon,84703,4.3,11609,26,5,Accessories
+Bose QuietComfort,Flipkart,98341,4.2,10844,17,6,Accessories
+Bose QuietComfort,Myntra,86706,4.2,13760,7,3,Accessories
+Bose QuietComfort,Croma,97937,4.5,12792,29,6,Accessories
+Bose QuietComfort,Reliance Digital,98996,4.5,5284,36,1,Accessories
+Dyson Airwrap,Amazon,51332,4.8,11178,11,7,Beauty
+Dyson Airwrap,Flipkart,61060,3.9,15272,5,6,Beauty
+Dyson Airwrap,Myntra,51575,4.7,5358,9,4,Beauty
+Dyson Airwrap,Croma,60201,4.1,20722,30,6,Beauty
+Dyson Airwrap,Reliance Digital,50711,4.1,22397,39,4,Beauty
+Philips Hair Dryer,Amazon,50565,4.4,16289,39,1,Beauty
+Philips Hair Dryer,Flipkart,46881,4.0,22726,23,2,Beauty
+Philips Hair Dryer,Myntra,48296,4.2,3525,45,6,Beauty
+Philips Hair Dryer,Croma,49673,4.2,23041,24,1,Beauty
+Philips Hair Dryer,Reliance Digital,40627,4.6,9913,27,3,Beauty
+Shark FlexStyle,Amazon,36797,4.0,13802,41,6,Accessories
+Shark FlexStyle,Flipkart,40047,4.0,2887,44,7,Accessories
+Shark FlexStyle,Myntra,36365,4.5,16607,42,2,Accessories
+Shark FlexStyle,Croma,35014,4.4,15359,21,6,Accessories
+Shark FlexStyle,Reliance Digital,33013,4.6,9725,39,2,Accessories
+Philips Trimmer,Amazon,19191,4.7,19553,24,6,Beauty
+Philips Trimmer,Flipkart,23748,4.5,15269,24,2,Beauty
+Philips Trimmer,Myntra,23940,4.7,3794,20,4,Beauty
+Philips Trimmer,Croma,21747,4.4,23213,23,1,Beauty
+Philips Trimmer,Reliance Digital,23830,4.5,9294,5,5,Beauty
+Braun Trimmer,Amazon,31780,4.6,1907,43,6,Beauty
+Braun Trimmer,Flipkart,29197,4.7,9678,19,5,Beauty
+Braun Trimmer,Myntra,31337,4.0,6530,44,3,Beauty
+Braun Trimmer,Croma,30466,4.5,21900,13,6,Beauty
+Braun Trimmer,Reliance Digital,26394,4.4,1591,24,7,Beauty
+Nike Air Max,Amazon,44476,4.4,24297,13,1,Fashion
+Nike Air Max,Flipkart,49552,4.1,13915,16,2,Fashion
+Nike Air Max,Myntra,41133,4.3,12288,38,5,Fashion
+Nike Air Max,Croma,49594,4.6,8720,35,7,Fashion
+Nike Air Max,Reliance Digital,42898,4.7,4073,34,1,Fashion
+Adidas Ultraboost,Amazon,13153,4.8,22461,30,7,Fashion
+Adidas Ultraboost,Flipkart,15447,4.2,13229,5,3,Fashion
+Adidas Ultraboost,Myntra,14521,4.3,22347,21,5,Fashion
+Adidas Ultraboost,Croma,13983,4.4,12472,11,6,Fashion
+Adidas Ultraboost,Reliance Digital,13475,3.8,18696,25,5,Fashion
+Puma Running Shoes,Amazon,12275,3.9,15513,24,6,Fashion
+Puma Running Shoes,Flipkart,12865,3.9,1519,24,4,Fashion
+Puma Running Shoes,Myntra,11943,4.0,17914,13,4,Fashion
+Puma Running Shoes,Croma,13008,4.5,24651,39,4,Fashion
+Puma Running Shoes,Reliance Digital,13430,4.5,13894,11,7,Fashion
+Skechers Go Run,Amazon,50666,4.2,9466,7,6,Fashion
+Skechers Go Run,Flipkart,49217,4.2,8036,28,1,Fashion
+Skechers Go Run,Myntra,56659,4.2,21429,27,1,Fashion
+Skechers Go Run,Croma,49554,4.0,4302,34,1,Fashion
+Skechers Go Run,Reliance Digital,52780,4.4,19867,6,1,Fashion
+Reebok Running Shoes,Amazon,14616,4.0,4426,41,2,Fashion
+Reebok Running Shoes,Flipkart,12259,4.6,7088,42,2,Fashion
+Reebok Running Shoes,Myntra,14702,4.0,5135,43,1,Fashion
+Reebok Running Shoes,Croma,12944,4.8,4559,39,3,Fashion
+Reebok Running Shoes,Reliance Digital,14654,3.9,1144,13,1,Fashion
+Levi's Jeans,Amazon,46416,4.6,19595,25,1,Fashion
+Levi's Jeans,Flipkart,44294,3.9,24604,31,5,Fashion
+Levi's Jeans,Myntra,43595,3.9,14989,28,5,Fashion
+Levi's Jeans,Croma,49131,4.3,7559,44,1,Fashion
+Levi's Jeans,Reliance Digital,50671,4.7,21890,38,3,Fashion
+Wrangler Jeans,Amazon,45616,4.8,2293,35,7,Fashion
+Wrangler Jeans,Flipkart,44992,4.5,16365,33,1,Fashion
+Wrangler Jeans,Myntra,50496,4.1,5160,9,2,Fashion
+Wrangler Jeans,Croma,43592,4.4,18268,25,4,Fashion
+Wrangler Jeans,Reliance Digital,51551,4.3,15167,37,5,Fashion
+Roadster Denim Shirt,Amazon,78787,4.6,4049,40,6,Fashion
+Roadster Denim Shirt,Flipkart,87158,4.2,7787,31,3,Fashion
+Roadster Denim Shirt,Myntra,86426,4.2,24207,11,3,Fashion
+Roadster Denim Shirt,Croma,78721,4.5,12565,14,6,Fashion
+Roadster Denim Shirt,Reliance Digital,88264,3.9,3097,10,4,Fashion
+H&M Oversized Hoodie,Amazon,32216,4.5,4563,40,1,Fashion
+H&M Oversized Hoodie,Flipkart,36410,4.4,11101,12,4,Fashion
+H&M Oversized Hoodie,Myntra,34416,4.5,24885,32,7,Fashion
+H&M Oversized Hoodie,Croma,39229,3.9,9725,43,3,Fashion
+H&M Oversized Hoodie,Reliance Digital,34399,4.4,7271,14,6,Fashion
+Adidas Hoodie,Amazon,6665,4.6,11772,40,3,Fashion
+Adidas Hoodie,Flipkart,6075,4.1,7710,32,7,Fashion
+Adidas Hoodie,Myntra,6791,4.6,20672,44,6,Fashion
+Adidas Hoodie,Croma,6923,3.8,21855,22,1,Fashion
+Adidas Hoodie,Reliance Digital,6180,4.5,10424,26,3,Fashion
+Nike Sweatshirt,Amazon,85190,4.7,18857,30,1,Fashion
+Nike Sweatshirt,Flipkart,88339,4.4,1304,10,6,Fashion
+Nike Sweatshirt,Myntra,97353,4.2,15165,26,2,Fashion
+Nike Sweatshirt,Croma,93631,4.5,18898,43,1,Fashion
+Nike Sweatshirt,Reliance Digital,105537,4.0,20545,8,6,Fashion
+Puma Sweatshirt,Amazon,55068,4.2,14194,36,5,Fashion
+Puma Sweatshirt,Flipkart,60364,4.1,17088,12,3,Fashion
+Puma Sweatshirt,Myntra,60186,4.1,22532,42,4,Fashion
+Puma Sweatshirt,Croma,61611,4.1,7525,30,5,Fashion
+Puma Sweatshirt,Reliance Digital,54674,4.0,7221,13,7,Fashion
+Wildcraft Backpack,Amazon,67100,4.1,553,36,6,Fashion
+Wildcraft Backpack,Flipkart,70096,3.9,17751,19,5,Fashion
+Wildcraft Backpack,Myntra,72287,4.5,11905,9,4,Fashion
+Wildcraft Backpack,Croma,77472,3.8,914,34,1,Fashion
+Wildcraft Backpack,Reliance Digital,77477,4.4,19089,30,6,Fashion
+American Tourister Bag,Amazon,17943,4.1,13572,6,3,Fashion
+American Tourister Bag,Flipkart,15992,4.7,15376,28,1,Fashion
+American Tourister Bag,Myntra,17096,3.9,14576,42,4,Fashion
+American Tourister Bag,Croma,17459,4.2,10467,26,2,Fashion
+American Tourister Bag,Reliance Digital,16664,4.0,17027,45,1,Fashion
+Skybags Backpack,Amazon,50985,4.0,11748,27,6,Fashion
+Skybags Backpack,Flipkart,56180,4.4,5139,20,1,Fashion
+Skybags Backpack,Myntra,46319,4.0,20039,14,7,Fashion
+Skybags Backpack,Croma,53762,3.9,20876,36,4,Fashion
+Skybags Backpack,Reliance Digital,53704,4.6,15009,41,6,Fashion
+Fastrack Watch,Amazon,11694,4.4,20852,25,2,Accessories
+Fastrack Watch,Flipkart,11163,4.3,20989,24,7,Accessories
+Fastrack Watch,Myntra,10714,3.9,16924,9,3,Accessories
+Fastrack Watch,Croma,11222,3.8,12382,23,1,Accessories
+Fastrack Watch,Reliance Digital,11720,4.8,3258,44,5,Accessories
+Casio Vintage Watch,Amazon,73480,4.3,18463,7,4,Accessories
+Casio Vintage Watch,Flipkart,80557,4.4,6468,25,5,Accessories
+Casio Vintage Watch,Myntra,72926,4.0,2327,33,1,Accessories
+Casio Vintage Watch,Croma,78830,4.6,23706,10,5,Accessories
+Casio Vintage Watch,Reliance Digital,75928,3.8,23487,33,4,Accessories
+Titan Watch,Amazon,39653,4.4,12224,28,3,Accessories
+Titan Watch,Flipkart,38360,4.6,22546,43,1,Accessories
+Titan Watch,Myntra,42162,4.4,2459,26,1,Accessories
+Titan Watch,Croma,39974,4.2,8557,43,7,Accessories
+Titan Watch,Reliance Digital,36117,3.9,22045,14,3,Accessories
+Apple Watch SE,Amazon,79597,4.5,21996,30,2,Accessories
+Apple Watch SE,Flipkart,85298,4.7,10444,40,4,Accessories
+Apple Watch SE,Myntra,86268,4.1,4487,38,1,Accessories
+Apple Watch SE,Croma,86318,4.2,12156,6,3,Accessories
+Apple Watch SE,Reliance Digital,79570,4.8,11497,36,2,Accessories
+Samsung Galaxy Watch,Amazon,76682,3.9,2828,23,7,Electronics
+Samsung Galaxy Watch,Flipkart,87743,4.3,17987,38,1,Electronics
+Samsung Galaxy Watch,Myntra,85258,4.7,20551,13,5,Electronics
+Samsung Galaxy Watch,Croma,79640,4.0,23003,44,7,Electronics
+Samsung Galaxy Watch,Reliance Digital,89999,4.5,1731,31,3,Electronics
+Mi Smart Band,Amazon,50447,4.0,14855,44,3,Accessories
+Mi Smart Band,Flipkart,51330,4.6,7967,39,2,Accessories
+Mi Smart Band,Myntra,46185,4.6,15668,17,3,Accessories
+Mi Smart Band,Croma,50470,4.4,14737,34,7,Accessories
+Mi Smart Band,Reliance Digital,45864,4.2,17583,31,2,Accessories
+Kindle Paperwhite,Amazon,82504,4.6,4835,21,1,Accessories
+Kindle Paperwhite,Flipkart,79270,4.7,18471,11,6,Accessories
+Kindle Paperwhite,Myntra,83037,4.7,9640,10,7,Accessories
+Kindle Paperwhite,Croma,70422,4.2,17121,14,7,Accessories
+Kindle Paperwhite,Reliance Digital,75522,4.7,7575,33,3,Accessories
+Logitech Wireless Mouse,Amazon,28909,4.2,13291,37,3,Electronics
+Logitech Wireless Mouse,Flipkart,24540,4.8,12585,19,1,Electronics
+Logitech Wireless Mouse,Myntra,25061,3.9,23719,26,7,Electronics
+Logitech Wireless Mouse,Croma,23976,3.8,15781,13,7,Electronics
+Logitech Wireless Mouse,Reliance Digital,27494,4.2,472,10,1,Electronics
+HP Wireless Mouse,Amazon,87879,4.6,18283,43,5,Electronics
+HP Wireless Mouse,Flipkart,91628,4.6,8086,24,1,Electronics
+HP Wireless Mouse,Myntra,83215,4.2,20708,34,1,Electronics
+HP Wireless Mouse,Croma,84629,4.7,19853,39,1,Electronics
+HP Wireless Mouse,Reliance Digital,96304,4.4,23845,14,3,Electronics
+Logitech K380 Keyboard,Amazon,9943,4.4,8182,41,4,Electronics
+Logitech K380 Keyboard,Flipkart,9355,4.5,17453,28,1,Electronics
+Logitech K380 Keyboard,Myntra,11215,4.3,16933,40,1,Electronics
+Logitech K380 Keyboard,Croma,9849,4.3,21129,29,3,Electronics
+Logitech K380 Keyboard,Reliance Digital,9516,3.8,2513,27,2,Electronics
+Dell Wireless Keyboard,Amazon,7396,4.4,19367,26,2,Electronics
+Dell Wireless Keyboard,Flipkart,6238,4.3,21363,16,7,Electronics
+Dell Wireless Keyboard,Myntra,7474,4.3,23086,35,6,Electronics
+Dell Wireless Keyboard,Croma,6470,3.9,23763,34,1,Electronics
+Dell Wireless Keyboard,Reliance Digital,6657,3.8,6836,7,3,Electronics
+SanDisk 128GB Pendrive,Amazon,96790,4.3,18094,35,3,Electronics
+SanDisk 128GB Pendrive,Flipkart,77921,4.4,9675,27,7,Electronics
+SanDisk 128GB Pendrive,Myntra,93581,4.7,11176,22,1,Electronics
+SanDisk 128GB Pendrive,Croma,93970,4.2,13407,33,4,Electronics
+SanDisk 128GB Pendrive,Reliance Digital,84285,4.0,22977,36,3,Electronics
+Samsung 256GB SSD,Amazon,34013,4.3,3007,32,1,Electronics
+Samsung 256GB SSD,Flipkart,30355,4.8,6213,39,3,Electronics
+Samsung 256GB SSD,Myntra,29545,3.9,21957,23,3,Electronics
+Samsung 256GB SSD,Croma,30469,4.5,5760,33,3,Electronics
+Samsung 256GB SSD,Reliance Digital,30478,4.5,11852,44,4,Electronics
+WD 1TB External HDD,Amazon,36822,4.8,2179,9,6,Electronics
+WD 1TB External HDD,Flipkart,40213,4.2,24872,15,1,Electronics
+WD 1TB External HDD,Myntra,35591,4.4,14658,7,2,Electronics
+WD 1TB External HDD,Croma,34885,4.6,12303,28,4,Electronics
+WD 1TB External HDD,Reliance Digital,43128,3.8,5327,33,3,Electronics
+Seagate 1TB HDD,Amazon,11105,4.6,19106,13,5,Electronics
+Seagate 1TB HDD,Flipkart,11091,4.1,9432,20,1,Electronics
+Seagate 1TB HDD,Myntra,10153,4.0,17265,29,5,Electronics
+Seagate 1TB HDD,Croma,10405,4.6,23369,33,2,Electronics
+Seagate 1TB HDD,Reliance Digital,12821,4.1,16395,17,1,Electronics
+Canon Printer,Amazon,28756,3.9,5957,33,1,Electronics
+Canon Printer,Flipkart,33859,4.8,10772,27,6,Electronics
+Canon Printer,Myntra,28220,4.3,10128,15,6,Electronics
+Canon Printer,Croma,33095,4.5,6004,28,5,Electronics
+Canon Printer,Reliance Digital,29425,4.8,4850,20,7,Electronics
+HP Ink Tank Printer,Amazon,14216,4.2,19052,28,4,Electronics
+HP Ink Tank Printer,Flipkart,15274,4.4,20352,10,1,Electronics
+HP Ink Tank Printer,Myntra,13585,4.8,23855,35,5,Electronics
+HP Ink Tank Printer,Croma,13932,4.2,19138,9,2,Electronics
+HP Ink Tank Printer,Reliance Digital,15851,4.4,15044,34,6,Electronics
+Epson EcoTank Printer,Amazon,51033,3.9,18365,45,5,Electronics
+Epson EcoTank Printer,Flipkart,46942,4.8,14476,37,7,Electronics
+Epson EcoTank Printer,Myntra,45399,3.9,5314,24,2,Electronics
+Epson EcoTank Printer,Croma,46698,4.7,7688,27,5,Electronics
+Epson EcoTank Printer,Reliance Digital,55639,4.6,8511,17,6,Electronics
+Philips Air Fryer,Amazon,41532,4.1,20780,24,5,Home & Kitchen
+Philips Air Fryer,Flipkart,37733,4.3,5825,42,5,Home & Kitchen
+Philips Air Fryer,Myntra,34326,4.5,23913,43,3,Home & Kitchen
+Philips Air Fryer,Croma,40510,4.4,1229,10,1,Home & Kitchen
+Philips Air Fryer,Reliance Digital,41462,4.6,8972,18,7,Home & Kitchen
+Prestige Air Fryer,Amazon,61474,4.4,1292,36,6,Home & Kitchen
+Prestige Air Fryer,Flipkart,61088,4.4,10199,35,2,Home & Kitchen
+Prestige Air Fryer,Myntra,64846,4.5,10046,34,1,Home & Kitchen
+Prestige Air Fryer,Croma,63163,4.0,13919,35,4,Home & Kitchen
+Prestige Air Fryer,Reliance Digital,56135,4.4,10542,25,6,Home & Kitchen
+Havells Air Fryer,Amazon,94194,4.1,13365,13,7,Home & Kitchen
+Havells Air Fryer,Flipkart,81699,4.4,10756,20,4,Home & Kitchen
+Havells Air Fryer,Myntra,76680,4.2,4916,11,1,Home & Kitchen
+Havells Air Fryer,Croma,80073,4.2,20464,31,2,Home & Kitchen
+Havells Air Fryer,Reliance Digital,93682,4.7,11029,41,6,Home & Kitchen
+Bajaj Mixer Grinder,Amazon,46623,4.6,16627,37,4,Home & Kitchen
+Bajaj Mixer Grinder,Flipkart,48803,4.1,1059,10,4,Home & Kitchen
+Bajaj Mixer Grinder,Myntra,48881,4.8,7349,42,3,Home & Kitchen
+Bajaj Mixer Grinder,Croma,43529,4.1,19879,35,3,Home & Kitchen
+Bajaj Mixer Grinder,Reliance Digital,49247,4.6,14420,13,3,Home & Kitchen
+Philips Mixer Grinder,Amazon,23536,4.6,12291,7,4,Home & Kitchen
+Philips Mixer Grinder,Flipkart,19913,4.4,12179,40,3,Home & Kitchen
+Philips Mixer Grinder,Myntra,20033,4.3,18317,22,7,Home & Kitchen
+Philips Mixer Grinder,Croma,24937,4.5,4193,13,1,Home & Kitchen
+Philips Mixer Grinder,Reliance Digital,21749,4.6,11411,40,3,Home & Kitchen
+Prestige Induction Cooktop,Amazon,52549,4.0,16982,30,5,Home & Kitchen
+Prestige Induction Cooktop,Flipkart,44055,3.8,23682,26,7,Home & Kitchen
+Prestige Induction Cooktop,Myntra,49206,4.3,20165,37,2,Home & Kitchen
+Prestige Induction Cooktop,Croma,47474,4.4,5624,30,5,Home & Kitchen
+Prestige Induction Cooktop,Reliance Digital,52363,4.1,11322,37,7,Home & Kitchen
+LG 43 inch Smart TV,Amazon,47675,4.3,18745,24,4,Electronics
+LG 43 inch Smart TV,Flipkart,51169,4.2,22379,12,4,Electronics
+LG 43 inch Smart TV,Myntra,48520,4.6,24067,45,1,Electronics
+LG 43 inch Smart TV,Croma,48671,4.1,21782,42,5,Electronics
+LG 43 inch Smart TV,Reliance Digital,44454,3.9,16043,15,5,Electronics
+Samsung 43 inch Smart TV,Amazon,29340,4.4,12758,14,7,Electronics
+Samsung 43 inch Smart TV,Flipkart,29693,3.8,23254,12,2,Electronics
+Samsung 43 inch Smart TV,Myntra,25173,4.1,5262,31,6,Electronics
+Samsung 43 inch Smart TV,Croma,26436,4.3,20336,35,7,Electronics
+Samsung 43 inch Smart TV,Reliance Digital,30838,4.5,23426,13,5,Electronics
+Sony Bravia 43 inch,Amazon,82600,4.1,21999,35,5,Accessories
+Sony Bravia 43 inch,Flipkart,86213,4.8,15362,39,3,Accessories
+Sony Bravia 43 inch,Myntra,89826,4.5,23923,21,5,Accessories
+Sony Bravia 43 inch,Croma,88502,4.8,9442,40,3,Accessories
+Sony Bravia 43 inch,Reliance Digital,82973,4.8,10052,23,6,Accessories
+OnePlus 43 inch TV,Amazon,33463,4.5,10688,35,3,Electronics
+OnePlus 43 inch TV,Flipkart,36514,4.7,23947,22,3,Electronics
+OnePlus 43 inch TV,Myntra,32725,4.5,12741,30,7,Electronics
+OnePlus 43 inch TV,Croma,34654,4.6,5099,23,1,Electronics
+OnePlus 43 inch TV,Reliance Digital,34157,4.5,11649,33,6,Electronics
+Mi 43 inch TV,Amazon,87551,4.3,6921,39,3,Electronics
+Mi 43 inch TV,Flipkart,102650,4.5,4798,11,5,Electronics
+Mi 43 inch TV,Myntra,98362,4.0,1963,38,2,Electronics
+Mi 43 inch TV,Croma,96065,3.9,13843,26,6,Electronics
+Mi 43 inch TV,Reliance Digital,92371,4.5,4804,5,5,Electronics
+LG Refrigerator,Amazon,100982,4.0,21693,35,4,Electronics
+LG Refrigerator,Flipkart,93865,4.6,9712,25,3,Electronics
+LG Refrigerator,Myntra,93764,4.7,3231,41,2,Electronics
+LG Refrigerator,Croma,91356,4.5,1522,16,4,Electronics
+LG Refrigerator,Reliance Digital,98902,4.0,1490,30,7,Electronics
+Samsung Refrigerator,Amazon,85842,4.7,9785,7,1,Electronics
+Samsung Refrigerator,Flipkart,81779,4.4,11278,23,4,Electronics
+Samsung Refrigerator,Myntra,96025,4.3,16484,13,7,Electronics
+Samsung Refrigerator,Croma,86024,4.1,3991,26,2,Electronics
+Samsung Refrigerator,Reliance Digital,90704,4.4,23847,16,1,Electronics
+Whirlpool Refrigerator,Amazon,10945,4.6,18905,17,2,Electronics
+Whirlpool Refrigerator,Flipkart,10632,4.4,13587,32,5,Electronics
+Whirlpool Refrigerator,Myntra,9929,4.2,3425,16,2,Electronics
+Whirlpool Refrigerator,Croma,10300,4.7,523,21,4,Electronics
+Whirlpool Refrigerator,Reliance Digital,9699,4.6,11101,24,5,Electronics
+IFB Washing Machine,Amazon,85163,3.8,21719,28,6,Electronics
+IFB Washing Machine,Flipkart,75722,4.5,15550,24,2,Electronics
+IFB Washing Machine,Myntra,79003,4.3,23354,24,6,Electronics
+IFB Washing Machine,Croma,73416,4.7,9967,28,5,Electronics
+IFB Washing Machine,Reliance Digital,75423,4.8,15969,14,4,Electronics
+LG Washing Machine,Amazon,89233,4.4,13926,40,4,Electronics
+LG Washing Machine,Flipkart,89428,4.6,7456,20,6,Electronics
+LG Washing Machine,Myntra,89375,4.7,2982,38,4,Electronics
+LG Washing Machine,Croma,84795,4.2,18786,12,1,Electronics
+LG Washing Machine,Reliance Digital,90871,4.7,6924,41,5,Electronics
+Samsung Washing Machine,Amazon,21461,4.1,17350,33,1,Electronics
+Samsung Washing Machine,Flipkart,24443,4.5,16317,10,5,Electronics
+Samsung Washing Machine,Myntra,23123,3.9,4623,37,4,Electronics
+Samsung Washing Machine,Croma,23187,3.9,15451,24,6,Electronics
+Samsung Washing Machine,Reliance Digital,20740,4.1,398,18,5,Electronics
+Philips LED Bulb,Amazon,63732,4.2,23250,9,5,Electronics
+Philips LED Bulb,Flipkart,79429,4.7,2561,35,1,Electronics
+Philips LED Bulb,Myntra,67380,4.0,4737,31,3,Electronics
+Philips LED Bulb,Croma,79408,4.2,12669,29,1,Electronics
+Philips LED Bulb,Reliance Digital,74123,4.5,17971,13,6,Electronics
+Syska LED Bulb,Amazon,104917,3.9,17904,30,5,Electronics
+Syska LED Bulb,Flipkart,87930,4.8,413,6,3,Electronics
+Syska LED Bulb,Myntra,95709,4.5,14197,39,4,Electronics
+Syska LED Bulb,Croma,104061,4.0,11642,14,3,Electronics
+Syska LED Bulb,Reliance Digital,89347,4.7,3997,7,7,Electronics
+Mi Smart Bulb,Amazon,34358,4.4,812,20,2,Electronics
+Mi Smart Bulb,Flipkart,29650,4.4,14928,43,6,Electronics
+Mi Smart Bulb,Myntra,34700,3.8,24566,7,4,Electronics
+Mi Smart Bulb,Croma,32601,4.3,2149,13,5,Electronics
+Mi Smart Bulb,Reliance Digital,37004,4.0,24270,41,3,Electronics
+Fire-Boltt Smartwatch,Amazon,22832,4.6,10807,20,3,Accessories
+Fire-Boltt Smartwatch,Flipkart,24440,4.8,17380,19,4,Accessories
+Fire-Boltt Smartwatch,Myntra,21342,3.9,19687,16,6,Accessories
+Fire-Boltt Smartwatch,Croma,23377,4.4,1836,27,6,Accessories
+Fire-Boltt Smartwatch,Reliance Digital,23337,4.6,10744,31,4,Accessories
+Noise ColorFit Smartwatch,Amazon,56403,4.2,17926,35,2,Accessories
+Noise ColorFit Smartwatch,Flipkart,66751,4.1,23485,14,7,Accessories
+Noise ColorFit Smartwatch,Myntra,61041,3.9,13822,31,5,Accessories
+Noise ColorFit Smartwatch,Croma,62031,4.2,8655,18,3,Accessories
+Noise ColorFit Smartwatch,Reliance Digital,63756,4.7,12459,10,5,Accessories
+boAt Smartwatch,Amazon,53468,4.0,9096,29,6,Accessories
+boAt Smartwatch,Flipkart,52012,3.8,2684,17,7,Accessories
+boAt Smartwatch,Myntra,53920,4.5,18612,18,4,Accessories
+boAt Smartwatch,Croma,47189,4.7,10234,5,2,Accessories
+boAt Smartwatch,Reliance Digital,56056,4.8,4144,35,2,Accessories
+Oppo Enco Buds,Amazon,38089,4.5,13296,20,5,Accessories
+Oppo Enco Buds,Flipkart,34823,4.1,15578,39,6,Accessories
+Oppo Enco Buds,Myntra,35152,4.1,17103,36,4,Accessories
+Oppo Enco Buds,Croma,32876,4.8,15684,25,2,Accessories
+Oppo Enco Buds,Reliance Digital,35252,4.2,18732,19,6,Accessories
